@@ -1,0 +1,23 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T2-P01-N03-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t2-p01-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Commercial Rooftop Packaged Unit (RTU) Maintenance & Climate Solutions in Rockwall TX",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t2-p01-n03-local/",
+  "primaryEntity": "Natural Gas Furnace Borescope Heat Exchanger & Carbon Monoxide Testing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t1-p00-n01-local/",
+      "anchor": "HVAC Repair Rockwall & Complete Home Climate Control — Homeowner Resource",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/services/furnace-repair",
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/services/ac-repair",
+    "https://hvacrepairrockwall.net/services/indoor-air-quality"
+  ]
+}
