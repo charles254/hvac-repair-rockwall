@@ -1,0 +1,25 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T3-P02-N02-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t3-p02-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Rowlett Lake Ray Hubbard Climate Control, Rust Prevention & Coil Coatings",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t3-p02-n02-local/",
+  "primaryEntity": "Next-Generation Low-GWP A2L Refrigerant Transition (R-454B & R-32) Compliance",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t2-p01-n02-local/",
+      "anchor": "Gas Furnace Safety Inspections, Carbon Monoxide Testing & Winter Freeze Readiness in Rockwall",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/service-areas/heath",
+    "https://hvacrepairrockwall.net/service-areas/royse-city",
+    "https://hvacrepairrockwall.net/service-areas/fate",
+    "https://hvacrepairrockwall.net/service-areas/rowlett",
+    "https://hvacrepairrockwall.net/service-areas/mclendon-chisholm"
+  ]
+}
