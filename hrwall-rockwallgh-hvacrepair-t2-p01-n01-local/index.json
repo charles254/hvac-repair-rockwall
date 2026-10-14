@@ -1,0 +1,23 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T2-P01-N01-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t2-p01-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "City of Rockwall HVAC Mechanical Permits, TDLR Compliance & Inspection Standards",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t2-p01-n01-local/",
+  "primaryEntity": "Lake Ray Hubbard Relative Humidity & Moisture Load Balancing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t1-p00-n01-local/",
+      "anchor": "HVAC Repair Rockwall & Complete Home Climate Control — Homeowner Resource",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/services/hail-damage-hvac",
+    "https://hvacrepairrockwall.net/services/furnace-repair",
+    "https://hvacrepairrockwall.net/services/ac-repair"
+  ]
+}
