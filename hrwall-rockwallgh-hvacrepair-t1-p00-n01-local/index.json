@@ -1,0 +1,23 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T1-P00-N01-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "HVAC Repair Rockwall & Complete Home Climate Control — Homeowner Resource",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t1-p00-n01-local/",
+  "primaryEntity": "TDLR Class A Licensing Standards & Texas Mechanical Compliance",
+  "outgoingLinks": [
+    {
+      "url": "https://hvacrepairrockwall.net/",
+      "anchor": "licensed hvac repair in rockwall tx",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/services/emergency-ac-repair",
+    "https://hvacrepairrockwall.net/services/hail-damage-hvac",
+    "https://hvacrepairrockwall.net/services/furnace-repair"
+  ]
+}
