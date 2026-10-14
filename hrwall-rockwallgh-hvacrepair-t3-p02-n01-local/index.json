@@ -1,0 +1,24 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T3-P02-N01-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t3-p02-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Fate TX Fast-Growing Subdivision AC Maintenance & New Construction Diagnostics",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t3-p02-n01-local/",
+  "primaryEntity": "Smart Wi-Fi Thermostat Integration & Texas Time-of-Use Electric Grid Automation",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t2-p01-n02-local/",
+      "anchor": "Gas Furnace Safety Inspections, Carbon Monoxide Testing & Winter Freeze Readiness in Rockwall",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/service-areas/heath",
+    "https://hvacrepairrockwall.net/service-areas/royse-city",
+    "https://hvacrepairrockwall.net/service-areas/fate",
+    "https://hvacrepairrockwall.net/service-areas/rowlett"
+  ]
+}
