@@ -1,0 +1,23 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T2-P02-N03-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t2-p02-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "HVAC Replacement Cost Factors, Oncor Rebates & Energy Efficiency Upgrades in Rockwall",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t2-p02-n03-local/",
+  "primaryEntity": "Secondary Attic Condensate Drain Pan Magnetic Float Switch Protection",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t1-p00-n02-local/",
+      "anchor": "24/7 Emergency AC Repair & Texas Heatwave Cooling Triage in Rockwall TX",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/services/ac-repair",
+    "https://hvacrepairrockwall.net/services/indoor-air-quality",
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/service-areas/heath"
+  ]
+}
