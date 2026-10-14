@@ -1,0 +1,24 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T3-P04-N01-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t3-p04-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "AC Condensate Drain Algae Clearance, Float Switches & Ceiling Protection in Texas",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t3-p04-n01-local/",
+  "primaryEntity": "Fate TX Subdivision Builder-Grade HVAC Diagnostic Optimization",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t2-p02-n01-local/",
+      "anchor": "Signs Your AC Requires Professional Diagnostic Assessment in Rockwall TX",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/service-areas/fate",
+    "https://hvacrepairrockwall.net/service-areas/rowlett",
+    "https://hvacrepairrockwall.net/service-areas/mclendon-chisholm",
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/services/emergency-ac-repair"
+  ]
+}
