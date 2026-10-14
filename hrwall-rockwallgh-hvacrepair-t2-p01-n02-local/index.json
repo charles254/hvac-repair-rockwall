@@ -1,0 +1,24 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T2-P01-N02-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t2-p01-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Gas Furnace Safety Inspections, Carbon Monoxide Testing & Winter Freeze Readiness in Rockwall",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t2-p01-n02-local/",
+  "primaryEntity": "North Texas Severe Hail Damage HVAC Fin Comb Restoration",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t1-p00-n01-local/",
+      "anchor": "HVAC Repair Rockwall & Complete Home Climate Control — Homeowner Resource",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/services/hail-damage-hvac",
+    "https://hvacrepairrockwall.net/services/furnace-repair",
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/services/ac-repair",
+    "https://hvacrepairrockwall.net/services/indoor-air-quality"
+  ]
+}
