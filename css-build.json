@@ -1,0 +1,8 @@
+{
+  "format": "css-deployment-marker",
+  "version": 1,
+  "campaignId": "4a4e76a5-8684-44a1-992d-08d532264fb8",
+  "buildHash": "af2eef035b159860719e25c1837f3c20575b747112b8ed4d6437563d800c4571",
+  "contentHash": "64840bd2922c40875de2d01716df23fae101856cfa535cc544d3a0bbaf811492",
+  "nodeCount": 20
+}
