@@ -1,0 +1,24 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T3-P05-N01-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t3-p05-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Smart Wi-Fi Thermostat Integration & Texas Time-of-Use Electric Grid Peak Automation",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t3-p05-n01-local/",
+  "primaryEntity": "McLendon-Chisholm Acreage Property Dual-Fuel Heat Pump Solutions",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t2-p02-n02-local/",
+      "anchor": "How to Prepare Your Rockwall Property for HVAC Replacement & Equipment Upgrades",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/service-areas/mclendon-chisholm",
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/services/emergency-ac-repair",
+    "https://hvacrepairrockwall.net/services/hail-damage-hvac",
+    "https://hvacrepairrockwall.net/services/furnace-repair"
+  ]
+}
