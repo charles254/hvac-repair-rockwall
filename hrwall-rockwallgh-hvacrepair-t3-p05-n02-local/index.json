@@ -1,0 +1,22 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T3-P05-N02-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t3-p05-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Next-Generation Low-GWP A2L Refrigerant Transition (R-454B & R-32) Compliance in Rockwall",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t3-p05-n02-local/",
+  "primaryEntity": "TDLR Class A Licensing Standards & Texas Mechanical Compliance",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t2-p02-n02-local/",
+      "anchor": "How to Prepare Your Rockwall Property for HVAC Replacement & Equipment Upgrades",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/services/hail-damage-hvac",
+    "https://hvacrepairrockwall.net/services/furnace-repair"
+  ]
+}
