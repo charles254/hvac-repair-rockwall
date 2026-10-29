@@ -1,0 +1,23 @@
+{
+  "nodeCode": "HRWALL-ROCKWALLGH-HVACREPAIR-T3-P06-N02-LOCAL",
+  "slug": "hrwall-rockwallgh-hvacrepair-t3-p06-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "AC Freeze-Up Diagnostics & Evaporator Coil Defrosting in Rockwall TX",
+  "canonical": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t3-p06-n02-local/",
+  "primaryEntity": "Lake Ray Hubbard Relative Humidity & Moisture Load Balancing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/hvac-repair-rockwall/hrwall-rockwallgh-hvacrepair-t2-p02-n03-local/",
+      "anchor": "HVAC Replacement Cost Factors, Oncor Rebates & Energy Efficiency Upgrades in Rockwall",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://hvacrepairrockwall.net/",
+    "https://hvacrepairrockwall.net/services/furnace-repair",
+    "https://hvacrepairrockwall.net/services/ac-repair",
+    "https://hvacrepairrockwall.net/services/indoor-air-quality"
+  ]
+}
